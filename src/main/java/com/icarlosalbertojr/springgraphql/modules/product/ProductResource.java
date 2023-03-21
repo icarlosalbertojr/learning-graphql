@@ -1,4 +1,4 @@
-package com.icarlosalbertojr.springgraphql.domain.product;
+package com.icarlosalbertojr.springgraphql.modules.product;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.graphql.data.method.annotation.Argument;

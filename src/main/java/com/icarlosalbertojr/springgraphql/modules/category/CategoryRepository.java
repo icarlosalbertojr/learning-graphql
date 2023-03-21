@@ -1,4 +1,4 @@
-package com.icarlosalbertojr.springgraphql.domain.category;
+package com.icarlosalbertojr.springgraphql.modules.category;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

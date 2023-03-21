@@ -1,6 +1,6 @@
-package com.icarlosalbertojr.springgraphql.domain.product;
+package com.icarlosalbertojr.springgraphql.modules.product;
 
-import com.icarlosalbertojr.springgraphql.domain.category.CategoryEntity;
+import com.icarlosalbertojr.springgraphql.modules.category.CategoryEntity;
 import jakarta.persistence.*;
 import lombok.Data;
 import lombok.NoArgsConstructor;

@@ -1,4 +1,4 @@
-package com.icarlosalbertojr.springgraphql.domain.product;
+package com.icarlosalbertojr.springgraphql.modules.product;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
